@@ -30,7 +30,7 @@
     "web3": "git://github.com/perissology/web3.js.git#all_fixes"
   },
   "dependencies": {
-    "liquidpledging": "0.0.8",
+    "liquidpledging": "git://github.com/giveth/liquidpledging.git#e0f19d8461c3f8aa6dc21b351ca53e261dde7865",
     "chai": "^4.1.2",
 	"eth-contract-class": "0.0.4"
   }
